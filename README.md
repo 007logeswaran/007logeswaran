@@ -3,11 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=LOGESWARAN+K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine+Learning+%7C+Data+Analysis+%7C+Data+Scientist&descAlignY=62&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I+am+Logeswaran+K;AI+%26+Data+Science+Graduate;Machine+Learning+%7C+Data+Analysis+%7C+Data+Scientist;Currently+exploring+Data+Science+%26+ML+Algorithms" />
-
+<centre>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logeswaran-k-1b2a29290)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://007logeswaran.github.io/my-portfolio/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://share.google/aI289A5ahs0fy08Kp)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:loges7365@gmail.com)
+</centre>
 
 </div>
 
